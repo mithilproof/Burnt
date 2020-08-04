@@ -1,3 +1,8 @@
+/** 
+ * @author          Pied Piper Games 
+ * @copyright       2020 Pied Piper Games
+ */
+
 /**
 * @author       Richard Davey <rich@photonstorm.com>
 * @copyright    2016 Photon Storm Ltd.
